@@ -50,8 +50,8 @@ Before you begin, ensure you have the following installed:
 
 To set up the infrastructure, clone this repository to your local environment:
   ```
-  git clone 
-  cd 
+  git clone https://github.com/AmiraTarek99/Automated_GCP_project.git
+  cd gcp-project
   ```
 
 ---- 🌟 ----
